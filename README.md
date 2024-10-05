@@ -6,5 +6,4 @@ Some Text
 
 ### Local Development
 
-This is my second branch - feature-readme-file
-Hi
+Added an application feature
