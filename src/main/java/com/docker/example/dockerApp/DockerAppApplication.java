@@ -17,4 +17,9 @@ public class DockerAppApplication {
 	public String helloWorld() {
 		return "Hello World";
 	}
+
+	@GetMapping("/message2")
+	public String helloWorld2() {
+		return "Hello Divya!";
+	}
 }
